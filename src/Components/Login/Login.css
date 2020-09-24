@@ -1,0 +1,60 @@
+.login-form{
+    text-align: center;
+    margin: 5% 0;
+}
+.login-form p{
+    font-size: 1rem;
+    font-weight: bold;
+    color: red;
+}
+.login-form h5{
+    color:  rgb(248, 63, 63);
+}
+.login-form h5:hover{
+    cursor: pointer;
+}
+.logo-design{
+    width: 240px;
+    height: 65px;
+    margin-bottom: 3%;
+}
+.input-field{
+    height: 2.5rem;
+    background-color: lightgrey;
+    border: none;
+    margin: 10px 20px;
+    width: 18rem;
+    border-radius: 10px;
+    padding: 2px 10px;
+}
+.input-field:focus{
+    outline: 0;
+}
+.submit-btn{
+    color: #fff;
+    background-color: rgb(248, 63, 63);
+    border: none;
+    height: 2.5rem;
+    margin: 10px 20px;
+    width: 18rem;
+    border-radius: 10px;
+    padding: 2px 10px;
+}
+.submit-btn:focus{
+    border-color: #F83F3F;
+    background-color: rgba(255, 0, 21, 0.836);
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(255, 0, 21, 0.836);
+}
+.extra-login-btn{
+    height: 2.5rem;
+    width: 18rem;
+    border-radius: 20px;
+    border: 1px solid lightgrey;
+    margin: 10px 0;
+}
+.extra-login-btn:focus, .extra-login-btn:hover{
+    background-color:  rgb(248, 63, 63);
+    color: white;
+    outline: 0;
+}

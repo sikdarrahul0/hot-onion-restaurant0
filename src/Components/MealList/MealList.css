@@ -1,0 +1,23 @@
+.card-design{
+    width: 18rem;
+    border: none;
+    margin: auto;
+}
+.meal-box{
+    text-align: center;
+}
+.meal-box:hover{
+    cursor: pointer;
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.meal-Link{
+    color: black;
+    text-decoration: none;
+}
+.meal-Link:hover{
+    color: black;
+    text-decoration: none;
+}

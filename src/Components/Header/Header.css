@@ -1,0 +1,66 @@
+.logo-img{
+    height: 40px;
+}
+.sign-up-btn{
+    font-weight: bold;
+    color: white;
+    background-color: rgb(248, 63, 63);
+    border-radius: 40px;
+    margin-left: 5px 10px;
+    display: inline-block;
+}
+.sign-up-btn:hover{
+    color: white;
+}
+.nav-link{
+    margin: 0 10px;
+}
+.search-box{
+    width: 99%;
+    text-align: center;
+    background-image: url('https://i.ibb.co/JQzCkmC/bannerbackground.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 400px;
+}
+.search-field{
+    width: 250px;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 1rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.search-field:focus{
+    color: #495057;
+    background-color: #fff;
+    border-color: #F83F3F;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(255, 0, 21, 0.836);
+}
+.search-btn{
+    border-radius: 1rem;
+    background-color: rgb(248, 63, 63);
+    width: 100px;
+    height: 32px;
+    margin-left: 10px;
+    border: none;
+}
+.search-btn:focus{
+    border-color: #F83F3F;
+    background-color: rgba(255, 0, 21, 0.836);
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(255, 0, 21, 0.836);
+}
+@media screen and (max-width: 991px){
+    .sign-up-btn{
+        background-color: white;
+    }
+}

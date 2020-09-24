@@ -1,0 +1,42 @@
+.meal-details{
+    margin: 10% 25%;
+}
+.unit-selection{
+    display: flex;
+}
+.unit-selection h2{
+    margin-right: 50px;
+}
+.unit-selection input{
+    border: none;
+    font-size: 1.8rem;
+}
+.unit-selection input:focus{
+    outline: 0;
+}
+.input-div{
+    display: flex;
+    border: 2px solid lightgray;
+    border-radius: 25px;
+    width: 120px;
+    height: 50px;
+    margin-bottom: 14px;
+}
+.input-div input{
+    width: 50px;
+}
+.add-cart-btn{
+    border-radius: 1.5rem;
+    background-color: rgb(248, 63, 63);
+    width: 120px;
+    height: 42px;
+    margin-left: 10px;
+    border: none;
+    color: white;
+}
+.add-cart-btn:focus{
+    border-color: #F83F3F;
+    background-color: rgba(255, 0, 21, 0.836);
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(255, 0, 21, 0.836);
+}

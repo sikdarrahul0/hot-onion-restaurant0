@@ -1,0 +1,25 @@
+.footer-div{
+    margin-top: 2%;
+    text-align: center;
+    padding: 7% 0 3% 0;
+    background-color: rgba(0, 0, 0, 0.795);
+}
+.footer-div img{
+    width: 250px;
+}
+.footer-icon{
+    color: white;
+    margin: 50px 30px;
+    padding: 5px;
+    font-size: 3.5rem;
+}
+.footer-icon:hover{
+    color: rgb(248, 63, 63);
+}
+.footer-div p{
+    margin-top: 30px;
+    color: white;
+}
+.footer-div p:hover{
+    color: rgb(248, 63, 63);
+}
