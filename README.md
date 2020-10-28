@@ -1,3 +1,7 @@
+## The site is live here
+
+https://hot-onion-restaurant0.web.app/
+
 ## Red Onion Restaurant
 
 This is a restaurant project. The features added in the project are given below:
@@ -21,6 +25,3 @@ To complete this awesome project there are some cool technologies used. For this
 	★Firebase for hosting.
 	★Git for version control
 	
-# The site is live here
-
-https://hot-onion-restaurant0.web.app/
