@@ -20,4 +20,7 @@ To complete this awesome project there are some cool technologies used. For this
 	★Firebase for authentication (email password)
 	★Firebase for hosting.
 	★Git for version control
+	
+#The site is live here
 
+https://hot-onion-restaurant0.web.app/
